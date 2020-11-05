@@ -1,6 +1,6 @@
 # React Simple State Lab
 
-## Objectives
+## Objectives 
 
 1. Practice setting initial state
 2. Practice deriving initial state from props
